@@ -7,6 +7,9 @@
     <title>Pagina di prova</title>
 </head>
 <body>
-    <h1>CIAO A TUTTI</h1>
+    <h1>Hello World</h1>
+    <hr>
+    <div>Buon Pomeriggio {{ $name }} {{ $surname }}</div> 
+
 </body>
 </html>
